@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FE414354-B125-E6A3-2965-8FCBC0BE59D4}") = "GameTaleApp", "Assembly-CSharp.csproj", "{EE1A18D3-DA7D-0A04-1771-870A8D2D50CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE1A18D3-DA7D-0A04-1771-870A8D2D50CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1A18D3-DA7D-0A04-1771-870A8D2D50CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1A18D3-DA7D-0A04-1771-870A8D2D50CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1A18D3-DA7D-0A04-1771-870A8D2D50CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

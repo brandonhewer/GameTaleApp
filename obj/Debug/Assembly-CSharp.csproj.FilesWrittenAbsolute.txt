@@ -1,0 +1,17 @@
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/brandonhewer/Documents/GameTaleApp/obj/Debug/Assembly-CSharp.dll
+/Users/brandonhewer/Documents/GameTaleApp/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/UnityEngine.dll
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/UnityEditor.dll
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/Mono.Cecil.dll
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/Unity.DataContract.dll
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/brandonhewer/Documents/GameTaleApp/Temp/bin/Debug/Mono.Cecil.Mdb.dll
